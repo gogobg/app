@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3c2d2dd01970440b2b6e268183214c7a75b2c76b/typeahead/index.d.ts",
+    "raw": "registry:dt/typeahead#0.11.1+20170314184353",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/3c2d2dd01970440b2b6e268183214c7a75b2c76b/typeahead/index.d.ts"
+  }
+}
